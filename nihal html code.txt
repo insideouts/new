@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>
+WEBPAGE
+</title>
+</head>
+<body bgcolor = "black" text="red">
+<body background=https://backiee.com/static/wpdb/wallpapers/1000x563/216072.jpg>
+<h1><ul><u><center>WELCOME TO NIHAL SAI'S WEBPAGE</center></u></ul></h1>
+<u><h2>MY LIST OF FRUITS</u></h2>
+<ol type ="1" start "1">
+<font color ="light blue">
+<li>Apple 
+<li>Orange
+<li>Mango
+<li>bananna
+</ol>
+<font color ="white">
+<h2><u>MY LIST OF GAMES</u></h2>
+<font color ="orange">
+<ul type "square">
+<li>Cricket
+<li>Football
+<li>Vollyball
+</ul>
+<h2><u>GADGETS AT MY HOME </u></h2>
+<font color ="yellow">
+<ol type "disc>
+<li>phone 
+<li>tv
+<li>oven
+<li>laptop
+<li>fan
+</ol>
+<h2><u>MY BREAKFAST</u></h2>
+<font color ="white">
+<ul type ="i" >
+<li>milk
+<li>sandwich
+<li>bananna 
+</ul>
+</body>
+</html>
+
+
+
+
+
+
